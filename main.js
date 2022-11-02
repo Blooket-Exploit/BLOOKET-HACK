@@ -1,5 +1,6 @@
 javascript:
 console.log("successfully executed")
+
 const iF = document.createElement("iframe");
 iF.src = "about:blank";
 iF.style = "display:none;"
@@ -87,4 +88,3 @@ else {
 let hi = iF.contentWindow.alert("Unknown Command!")
 }
 }
-
