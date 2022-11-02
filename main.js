@@ -1,4 +1,5 @@
 javascript:
+console.log("successfully executed")
 const iF = document.createElement("iframe");
 iF.src = "about:blank";
 iF.style = "display:none;"
