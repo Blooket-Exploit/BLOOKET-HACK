@@ -1,9 +1,9 @@
 javascript:
-console.log("successfully executed")
+console.log("successfully executed");
 
 const iF = document.createElement("iframe");
 iF.src = "about:blank";
-iF.style = "display:none;"
+iF.style = "display:none;";
 document.body.appendChild(iF);
 let start = iF.contentWindow.confirm("Blooket hack.\nAre you sure you want to do this?");
 if (start === true) {
