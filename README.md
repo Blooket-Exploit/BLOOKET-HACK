@@ -1,6 +1,7 @@
 # How to use
 This method works on school computers that have inspect element blocked.
 Create a bookmark.
+Name the bookmark whatever you want (ex. blooket cheats)
 At the "Url" section, change it to the script in here. **DO NOT ADD ANYTHING.** you then want to click on the bookmark and the hack/exploit should open.
 
 # Finishing up
