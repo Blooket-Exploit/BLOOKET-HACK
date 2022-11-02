@@ -1,8 +1,4 @@
-
-
-javascript: 
-// CREDITS TO ALL ORIGINAL OWNERS. 
-// REMOVE "JAVASCRIPT:" IF YOU ARE USING DEVELOPER CONSOLE, IF YOU ARE USING BOOKMARK JUST COPY EVERYTHING.
+javascript:
 const iF = document.createElement("iframe");
 iF.src = "about:blank";
 iF.style = "display:none;"
