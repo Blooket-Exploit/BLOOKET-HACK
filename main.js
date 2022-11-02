@@ -1,3 +1,4 @@
+javascript:
 const iF = document.createElement("iframe");
 iF.src = "about:blank";
 iF.style = "display:none;";
